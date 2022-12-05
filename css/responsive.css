@@ -1,0 +1,403 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31 Aug, 2018, 10:55:56 AM
+    Author     : Easysoft
+*/
+
+@media(min-width:1500px){
+    .the-indian-international-trips li{    margin: 0 0 40px;}
+    .the-left-spacing-for{    padding-left: 117px;}
+    .the-all-destination-full h4{    left: -57px;}
+}
+@media(min-width:1700px){
+    .the-indian-international-trips li{    margin: 0 0 120px;}
+}
+
+
+@media(min-width:1300px){
+    .grouped-packages{max-width: 1250px}
+}
+
+@media(max-width:1300px){
+
+    .main-menu-style .nav-item .nav-link{padding: 0 17px;}
+}
+
+@media(max-width:1199px){
+
+    .main-menu-style .nav-item .nav-link{
+        padding: 0 9px;    font-size: 15px;
+    }
+    .caption__overlay h2{font-size: 17px;}
+    .added-for-last h2{font-size: 29px;}
+    .added-for-last h3{    font-size: 18px;}
+    .social-icon ul li{padding: 0}
+    .right-spacing {
+    padding-right: 32px!important;
+}
+.the-indian-international-trips li{    width: 49%;    min-height: 446px;}
+}
+
+
+@media(max-width:1024px){
+
+    .caption__overlay h2{    font-size: 16px;}
+}
+
+@media(min-width:992px){
+    .pos-show{display: block!important}
+}
+
+@media(max-width:991px){
+    .inside-wrap:after{background: transparent}
+    .the-inside-height p{max-width: 80%}
+    
+    .main-menu-style .nav-item .nav-link {
+    padding: 7px 9px;
+    font-size: 15px;
+}
+.the-main-side-contain{max-width: 100%}
+/*.the-hidden-wrap {
+    display: block;
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    max-width: 100%;
+    left: 0;
+    bottom: 0;z-index: 999
+}*/
+a.the-booked-wrap{height: 44px;}
+    .no-top-btm-space img{max-width: 120px}
+    .top-no-magrin{margin-top: 0!important}
+    .grouped-packages ul li{width: 50%;}
+    .text-center-md{text-align: center}
+.discover-dream {
+    top: 100px;
+}
+.the-top-dream{top:30px}
+.the-indian-international-trips li {
+    width: 49%;
+   min-height: auto;    margin-bottom: 100px;
+}
+.the-media-for h3{
+     background: #EF7F1A;
+    color: #fff!important;
+    padding: 20px 10px;
+}
+.the-left-spacing-for{    padding: 0}
+.the-all-destination-full h4{position: static;
+    writing-mode: unset;
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+    transform: rotate(0);
+        margin: 9px 6px;}
+        .the-all-destination-full h4 span{border-left: none;border-bottom: solid 1px}
+        .right-spacing {
+    padding-right: 15px!important;
+    padding-left: 15px!important;
+}
+.pos-show{display: none;position: fixed;width: 100%;background: #fff;height: 100%;z-index: 9999;top:0;padding: 20px;overflow: auto}
+.pos-inn {
+      position: relative;
+    top: 3px;
+    display: block;
+    left: 71px;
+}
+.show-close{    display: block;
+    position: relative;
+    left: 7px;
+    top: -15px;
+   
+    border-radius: 54%;    z-index: 99991;}
+.the-media-for h3.blue-filter{    background: #005C87!important;}
+.top-specil-req {
+    margin: 4px 0 0;
+    padding: 0 10px!important;
+}
+}
+
+
+@media(min-width:768px){
+    .hide-me-wrap{display: none}
+    
+}
+
+@media(max-width:575px){
+    .modal-backdrop.show{
+        display:none;
+    }
+    
+    .homepagepopup{
+        display:none !important;
+    }
+    .the-indian-international-trips li{width: 100%}
+    a.the-booked-wrap{max-width: 100%}
+    a.the-booked-wrap {
+    height: 44px;
+    margin: 0;
+    float: none;
+    margin-bottom: 30px;
+}
+section.banner-sec .position-relative img.w-100{
+    width: 200% !important;
+    margin-left: -10%;
+}
+.float-panel.fixed{
+        display: none;
+    }
+.the-hidden-wrap{
+    /*padding:*/ 
+}
+.the-main-inslide {
+    height: auto;
+}
+.fixme{padding: 0!important}
+.the-top-rated-inn{padding: 0;    margin-top: 15px;}
+.the-gray-sect-bg{    padding: 10px 0 40px;}
+p.the-timming-inside{font-size: 25px}
+.media{
+    margin-top: 15px;
+}
+}
+
+@media(max-width:767px){
+    .modal-backdrop.show{
+        display:none;
+    }
+     .homepagepopup{
+        display:none !important;
+    }
+    .the-full-width{display: block;text-align: center}
+.the-full-width img{width: 100%}
+.the-full-width li{text-align: left}
+    .the-main-indian-international h5{font-size: 20px}
+    
+    .the-main-baner{
+        overflow: hidden;
+    }
+    .amazing-section h3{font-size: 14px}
+    
+     .hide-me-wrap{display: block}
+     /*.hide-me{display: none}*/
+    .discover-dream h1{font-size: 30px}
+    .discover-dream h2{font-size: 20px}
+    .discover-dream { top: 10px; }
+    .for-main-menus  {max-width: 100%;    padding-top: 16px;}
+    .no-top-btm-space img {
+        max-width: 120px;
+        margin-top: 8px; }
+    .caption__overlay a{  
+                           font-size: 15px;}
+    .on-the-add-section:hover .caption__overlay a {
+        margin-top: 10px;
+    }
+    .main-for-the-destin h3{font-size: 9px}
+    .grouped-packages {
+        max-width: 100%;
+    }
+.inside-the-view-packages{font-size: 16px}
+.need-the-customized h5{font-size: 35px; padding-right: 3%;}
+.need-the-customized{padding: 30px 15px}
+.travelor-stories h5{font-size: 20px}
+.travelor-stories h4{font-size: 27px}
+.story-satisfactory h3,.for-the-arrow-lap{max-width: 100%}
+.happy-clients {
+    max-width: 100%;
+}
+.no-space-in{padding: 0}
+.the-slicked .slick-prev{left: 1%}
+.the-slicked .slick-next{right: 2%}
+.v-logged-trip {
+    margin: 0 10px 0 0;
+    display: block;
+}
+.ring-us-at {
+    z-index: 1;
+    top: -15px;
+}
+.sl-ovr{padding: 0 15px}
+.the-package-highlight{top:-10px}
+
+.fixme{position: static!important}
+.dtl-see{display: none;}
+.excl,.inc{
+    float: none;
+      width: 100%;
+    padding: 19px;
+    
+    
+}
+    .cost-dtl{
+        padding: 15px;
+    }
+
+
+
+}
+
+
+
+
+@media(max-width:575px){
+    .modal-backdrop.show{
+        display:none;
+    }
+     .homepagepopup{
+        display:none !important;
+    }
+    
+    .the-trip-in{    width: 75px;
+    height: 75px;}
+    .the-days-in{font-size: 15px}
+    .the-light-num{font-size: 27px;}
+    .hide-me{
+        /*display: none*/
+        width: 220% !important;
+        position: relative;
+        left: -150px;
+        /*margin-left: -15%;*/
+    }
+    .discover-dream h1 {
+        font-size: 26px;
+    }
+    .discover-dream h2 {
+        font-size: 16px;
+    }
+    .grouped-packages ul li {
+        width: 100%;
+    }
+    .caption__overlay h2 {
+        font-size: 22px;
+    } 
+    .grouped-packages h3{font-size: 25px}
+    .area-written{padding: 0 40px}
+    .area-written a{
+        margin: 0;
+    }
+.inadd-space{padding: 0 15px}
+.social-icon ul{padding: 0;text-align: center}
+.social-icon ul li{margin: 10px 10px;}
+.the-trans-in  {padding: 15px;margin-top: 10px;}
+.the-trans-in p,.the-trans-in span,.the-trans-in a{    font-size: 11px;}
+.added-for-last h2 {
+    font-size: 24px;
+}
+.added-for-last h3 {
+    font-size: 16px;
+}
+.need-the-customized{
+    height: 350px;
+}
+.slick-slide img{
+    width: 300% !important;
+}
+.hst-wrapp li{
+    padding: 0;
+    border:none;
+    margin: 25px 20px;
+    /*display: table;*/
+    width: 70%;
+}
+.hst-wrapp li *{
+/*    float: none;
+    display: block;*/
+}
+/*.the-inside-height h4{    font-size: 18px;}*/
+.driven-classes{display: none}
+/*.the-package-highlight{padding:10px 0}*/
+}
+
+
+@media(max-width:499px){
+    .modal-backdrop.show{
+        display:none;
+    }
+    
+      .homepagepopup{
+        display:none !important;
+    }
+    .show-mob{
+        display: block;
+    }
+    .v-logged-trip{
+        display: none;
+    }
+    .ring-us,.help-desk{
+        /*display: none;*/
+    }
+     .right-fix_cnt{
+        display: none;
+    }
+    .fix-phone_wrapp{
+        display: none;
+    }
+    .sl-ovr{
+        padding: 10px 10px;
+    }
+    .sl-ovr-ttl{
+        display: none;
+    }
+    .sl-ovr-srh-wrapp{
+        width: 100%;
+    }
+    .sl-ovr-srh-wrapp input[type=text]{
+        width: 60%;
+        max-width: inherit;
+    }
+    .sl-ovr-srh-wrapp input[type=submit]{
+        width: 25%;
+        padding: 0;
+    }
+    .the-attached-blue h3{display: none}
+    .area-written{height: 80%}
+    .area-written a {
+/*        padding: 2px 14px;
+        font-size: 12px;*/
+    }
+/*    .area-written h4{    font-size: 15px;}*/
+
+    .area-written h5 {
+    font-size: 15px;
+    }
+    .map{
+        margin-bottom: 30px;
+    }
+}
+
+
+
+@media(max-width:399px){
+    .modal-backdrop.show{
+        display:none;
+    }
+      .homepagepopup{
+        display:none !important;
+    }
+    .area-written {
+        height: 94%;
+    }
+    .discover-dream h1 {
+        font-size: 20px;
+    }
+    .discover-dream h2 {
+        font-size: 12px;
+    }
+    .caption__overlay h2 {
+        font-size: 16px;
+    }
+    .main-for-the-destin {
+        top: 20%;
+    }
+    .live-crp-wrapp{
+        display: none;
+    }
+    
+ 
+
+}
